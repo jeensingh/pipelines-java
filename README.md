@@ -1,3 +1,4 @@
+[![Build Status](https://anupreetsingh.visualstudio.com/TestPipelines/_apis/build/status/jeensingh.pipelines-java?branchName=master)](https://anupreetsingh.visualstudio.com/TestPipelines/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
